@@ -1,9 +1,8 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
-  <groupId>com.new.prj</groupId>
-  <artifactId>newprojmaven</artifactId>
-  <version>0.0.2-SNAPSHOT</version>
-  
+  <groupId>com.projlast</groupId>
+  <artifactId>projlast</artifactId>
+  <version>0.0.1</version>
   
   
   
@@ -58,6 +57,7 @@
 			</plugin>
 		</plugins>
 	</build>
+  
   
   
   
